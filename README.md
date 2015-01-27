@@ -1,1 +1,2 @@
-# compscience
+practice and develop concepts of compscience. 
+Some interesting notes...
